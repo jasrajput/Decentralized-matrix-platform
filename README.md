@@ -36,13 +36,13 @@ Our project integrates a variety of libraries and tools to enhance functionality
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/jasrajput/uni-bank.git
+   git clone https://github.com/jasrajput/unity-bank-matrix-testnet.git
 
 
 2. **Enter the Repository & Install dependencies:**
 
    ```bash
-   cd uni-bank/ && cd frontend/ && npm install && cd ../backend && npm install
+   cd unity-bank-matrix-testnet/ && cd frontend/ && npm install && cd ../backend && npm install
 
 
 3. **Set Up Environment Variables:**
